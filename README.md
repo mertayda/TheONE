@@ -8,9 +8,6 @@
 
 
 
-![one3](https://user-images.githubusercontent.com/48617781/206884257-35649669-224f-472a-ab48-c28658d601d1.gif)
-
-
 ## VideoShowcase
 
 [theonef.webm](https://user-images.githubusercontent.com/48617781/206884318-770ea326-250d-4d3a-a1e7-1027aeb9c32d.webm)
