@@ -1,0 +1,58 @@
+/* body{
+    background-color: rgb(24,24,24);   
+} */
+
+.footerLotr-container {
+    background-color: #181818;
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://bookstr.com/wp-content/uploads/2019/03/0sMr-BCAuLfq4XmHY.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0%;
+
+    }
+  
+    .footerLotr-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+    margin-bottom: 24px;
+    padding: 24px;
+    /* background-color: #181818; */
+    color: #fff;
+    font-family: 'Cinzel', serif;
+    font-size: 1.9rem;
+    
+    }
+  
+    .footerLotr-quote-text{
+    font-family: 'Cinzel', serif;
+    }
+  
+    .footerLotr-quote-author {
+        font-family: 'Cinzel', serif;
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-top: 24px;
+} 
+  
+  
+    .footerLotr-rights {
+    /* background-color: #181818; */
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    margin-bottom: 16px;
+    font-family: 'Cinzel', serif;
+    height: 100%;
+    margin-bottom: 0px;
+    }
+  

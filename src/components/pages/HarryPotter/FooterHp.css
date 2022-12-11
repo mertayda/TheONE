@@ -1,0 +1,57 @@
+/* body {
+    margin-bottom: 0;
+    background-color: rgb(24,24,24);
+} */
+
+.footerHp-container {
+    
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./img/harry-potter-hogwarts-legacy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-color: black;
+
+
+    }
+  
+    .footerHp-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+    margin-bottom: 24px;
+    padding: 24px;
+    
+    }
+  
+    .footerHp-quote-text{
+    font-family: 'Cinzel', serif;
+    font-size: 1.9rem;
+    color: black;
+    }
+  
+    .footerHp-quote-author {
+        font-family: 'Cinzel', serif;
+        font-size: 1.7rem;
+        font-weight: bold;
+        margin-top: 24px;
+} 
+  
+  
+    .footerHp-rights{
+    font-family: 'Cinzel', serif;
+    
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-bottom: 16px;
+    }
+
+ 
